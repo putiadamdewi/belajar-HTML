@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Topic 2</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+  <link rel="icon" href="assets/img/icon.png">
+  <style type="text/css">
+    body{
+      background-image: url("assets/img/wp.jpg");
+    }
+  </style>
+</head>
+<body>
+  <div class="vid-container">
+    <div class="inner-container">
+      <div class="box">
+        <center><img src="assets/img/icon.png" width="80" height="80"></center>
+        <h1>Silahkan Masuk</h1>
+        <p>Selamat Belajar</p>
+        <input type="text" placeholder="Username"/>
+        <input type="text" placeholder="Password"/>
+        <button>Login</button>
+        <p>Bukan anggota ? <span>Mendaftar</span></p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+PENJELASAN :
+<!DOCTYPE html> untuk menentukan tipe dokumen
+<HTML> … </HTML> kumpulan karakter yang mengawali dan mengakhiri suatu tag. Karakter yang digunakan (<>). Tag awal disebut opening tag, tag akhir disebut ending tag ditandai dengan (/)
+<HEAD> … </HEAD> Diantaranya adalah area dari heading halaman. Digunakan untuk script/perintah khusus yang tidak mempunyai hubungan dengan format dari halaman. 
+<TITLE> … </TITLE> Digunakan untuk pemberian judul
+<link> Digunakan untuk membuat hubungan antara dokumen dan sumber daya eksternal(paling sering digunakan untuk link style sheet)
+<BODY> … </BODY> digunakan untuk area dimana yang dilihat adalah merupakan tampilan dari web/ isi dari halaman.
+ <style> ... </style> Digunakan untuk :  Hal-hal yang berkaitan dengan sebuah tag spesifik HTML,  Mendefinisikan sebuah tag HTML tertentu yang memiliki nama class spesifik dengan nilai –nilai  style sheet tertentu,
+ Mendefinisikan sebuah nama identitas spesifik yang memiliki nilai-nilai style sheet tertentu.
+<div>...</div> tag untuk membuat sebuah bagian dalam dokumen
+<center>...</center> tag untuk membuat jajaran teks menjadi ditengah
+<h1>...</h1> tag untuk membuat heading
+<p>...</p> tag untuk membuat paragraf
+<input>...</input> tag untuk membuat sebuah kontrol input
+<button>...</button> tag untuk membuat sebuah tombol yang dapat di klik
+<span>...</span> tag untuk membuat sebuah bagian dalam dokumen
