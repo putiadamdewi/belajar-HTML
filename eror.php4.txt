@@ -1,0 +1,14 @@
+<!DOCTYPE html>//untuk mendefinisikan bahwa suatu dokumen HTML adalah HTML5.
+	<html>
+	<head>
+		<title>Home</title>//
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />//digunakan untuk mendefiniskan dokumen HTML agar ditampilkan pada Internet Explorer versi berapa.
+		<title>Latihan Membuat Login</title>//digunakan untuk mendefinisikan judul suatu dokumen HTML.
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">//untuk menampilkan gambar resolusi tinggi sebagai ikon pada Chrome mobile.
+	</head>// salah satu elemen penting yang dimiliki oleh sebuah file html selain body.
+	<body>
+		<center><h1 class="alert alert-danger">Danger</h1></center>
+		<br>
+	</body>
+	</html>
+

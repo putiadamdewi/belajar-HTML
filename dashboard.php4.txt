@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>//digunakan untuk mendefinisikan bahwa suatu dokumen HTML
+	<html> //
+	<head>
+		<title>Home</title>//digunakan untuk mendefinisikan judul suatu dokumen HTML
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />//digunakan untuk mendefiniskan dokumen HTML agar ditampilkan pada Internet Explorer versi berapa.
+		<title>Latihan Membuat Login</title>
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">//digunakan untuk menghubungi suatu domain sebelum ia secara eksplisit digunakan.
+	</head>//yang baik kali ini hanya sampai pada tag penutup.
+
+	<body>
+		<center><h1 class="alert alert-info">Selamat datang</h1></center>
+		<br>
+		<center><b><a href="code_logout.php" class="btn btn-danger">Logout</a></b></center>
+	</body>
+	</html>
+
+
